@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karthi
+- 👋 Hi, I’m Karthi!
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning CSS, JS, React & NodeJS
 - 📫 How to reach me @Karthikeyan18AK
